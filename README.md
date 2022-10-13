@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JavierBescosArtigas
-- 👀 I’m interested in Machine Learning, physics and a little bit of cybersecurity
+- 👀 I’m interested in Machine Learning, Physics and a little bit of Cybersecurity
 - 🌱 I’m currently studying the Master in Big Data and Machine Learning in the VIU
 - 📫 How to reach me: javierbescoss@gmail.com
 
